@@ -1,6 +1,6 @@
 import project1_img from '../assets/quote_generator1.jpg'
 import project2_img from '../assets/notes_app2.jpg'
-import project3_img from '../assets/project_3.svg'
+import project3_img from '../assets/portfolio2.png'
 import project4_img from '../assets/project_4.svg'
 import project5_img from '../assets/project_5.svg'
 import project6_img from '../assets/project_6.svg'
@@ -21,7 +21,8 @@ const mywork_data = [
     {
         w_no:3,
         w_name:"Web design",
-        w_img:project3_img
+        w_img:project3_img,
+        github_link:"https://github.com/MANISHAMISHRA77/Personal-Portfolio"
     },
     // {
     //     w_no:4,
