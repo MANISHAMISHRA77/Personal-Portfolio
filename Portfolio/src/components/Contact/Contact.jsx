@@ -1,11 +1,11 @@
 import React from "react";
 import "./Contact.css";
-import theme_pattern from "../../assets/Assets/theme_pattern.svg";
-import mail_icon from "../../assets/Assets/mail_icon.svg";
-import location_icon from "../../assets/Assets/location_icon.svg";
-import call_icon from "../../assets/Assets/call_icon.svg";
-import linkedIn_icon from "../../assets/Assets/linkedIn.png";
-import github_icon from "../../assets/Assets/github.png";
+import theme_pattern from "../../assets/theme_pattern.svg";
+import mail_icon from "../../assets/mail_icon.svg";
+import location_icon from "../../assets/location_icon.svg";
+import call_icon from "../../assets/call_icon.svg";
+import linkedIn_icon from "../../assets/linkedIn.png";
+import github_icon from "../../assets/github.png";
 const Contact = () => {
   const onSubmit = async (event) => {
     event.preventDefault();

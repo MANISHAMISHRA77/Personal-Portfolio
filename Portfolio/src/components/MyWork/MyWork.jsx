@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./MyWork.css";
-import theme_pattern from "../../assets/Assets/theme_pattern.svg";
-import mywork_data from "../../assets/Assets/mywork_data.js";
-import arrow_icon from '../../assets/Assets/arrow_icon.svg'
+import theme_pattern from "../../assets/theme_pattern.svg";
+import mywork_data from "../../assets/mywork_data.js";
+import arrow_icon from '../../assets/arrow_icon.svg'
 const MyWork = () => {
   const [showMore, setShowMore] = useState(false);
 
